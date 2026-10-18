@@ -1,6 +1,6 @@
 # YeatCode
 
-The names Yeat and LeetCode sounded similar enough to turn into a project.
+The names Yeat and LeetCode sounded too similar to not turn into a project.
 
 Each Yeat album represents a set of coding challenges, with one song assigned to each problem.
 
